@@ -2,4 +2,5 @@ Changes in 1.1.2 Update:
 
 Fixed STR_grill
 - Headlights not showing correctly
-- Fixed Wrong Material around Indicator Lights
+
+Fixed Wrong Material around Indicator Lights
