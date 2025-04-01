@@ -1,5 +1,5 @@
-Fixed Broken meshes at front wheels Bodyshell
-Set Spoilers to use Primary Color
-Fixed Template issues on roof_3 and roof_4 from the basic Buffalo Stx. Now converted to match the Buffalo STR.
-Adjusted heights of wheels from the body.
-Removed fauly liveries and replaced them with more striped colors. If you want template ask on Discord.
+Changes in 1.1.2 Update:
+
+Fixed STR_grill
+- Headlights not showing correctly
+- Fixed Wrong Material around Indicator Lights
