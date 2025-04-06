@@ -1,6 +1,4 @@
-Changes in 1.1.2 Update:
+Changes in 1.1.3 Update:
 
 Fixed STR_grill
-- Headlights not showing correctly
-
-Fixed Wrong Material around Indicator Lights
+- Corrupted file. Update to fix crashes.
